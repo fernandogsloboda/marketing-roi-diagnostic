@@ -27,4 +27,4 @@ This project performs a deep-dive audit of a retail company's marketing performa
 
 ## 🤝 Contact
 * **LinkedIn:** https://www.linkedin.com/in/fernando-sloboda-b5506969/
-* **Upwork Profile:** (https://www.upwork.com/freelancers/~0175fc2ae148f9c27e?mp_source=share)
+* **Upwork Profile:** https://www.upwork.com/freelancers/~0175fc2ae148f9c27e?mp_source=share
